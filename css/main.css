@@ -100,7 +100,7 @@ div,li {
   border-radius: 50%;
 }
 .menu{
-  background:fixed 100% bottom url(/images/sample_menu_bg.jpg)
+  background:fixed 100% bottom url(../images/sample_menu_bg.jpg)
 }
 .pancakes ul{
   display: flex;
